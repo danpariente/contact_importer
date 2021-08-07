@@ -7,6 +7,7 @@ gem 'pg', '~> 1.1'
 gem 'puma', '~> 5.0'
 gem 'sass-rails', '>= 6'
 gem 'jbuilder', '~> 2.7'
+gem 'credit_card_validations'
 
 
 gem 'bootsnap', '>= 1.4.4', require: false
